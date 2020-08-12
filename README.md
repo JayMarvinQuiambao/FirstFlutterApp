@@ -1,6 +1,15 @@
-# hello_world
+# Introduction
 
-A new Flutter project.
+This project used Flutter.
+
+This project used this following tutorials:
+https://fluttercrashcourse.com/blog
+https://youtu.be/pTJJsmejUOQ
+
+# App Preview
+
+![alt text](https://github.com/JayMarvinQuiambao/FirstFlutterApp/blob/master/AppScreenshot1.jpg)
+![alt text](https://github.com/JayMarvinQuiambao/FirstFlutterApp/blob/master/AppScreenshot2.jpg)
 
 ## Getting Started
 
