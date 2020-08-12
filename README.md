@@ -8,6 +8,8 @@ https://youtu.be/pTJJsmejUOQ
 
 # App Preview
 
+Screenshot taken in Redmi K20 Pro.
+
 ![alt text](https://github.com/JayMarvinQuiambao/FirstFlutterApp/blob/master/AppScreenshot1.jpg)
 ![alt text](https://github.com/JayMarvinQuiambao/FirstFlutterApp/blob/master/AppScreenshot2.jpg)
 
